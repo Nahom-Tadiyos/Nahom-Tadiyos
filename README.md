@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahom Tadiyos</h1>
-<h3 align="center">A passionate software engineer student from Texas</h3>
+<h3 align="center">A passionate software engineer student from Texas currently in high school</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structures and Javascript<br><br>👨‍💻 All of my projects are available at github.com/NahomT8<br><br>📫 How to reach me girlw850@gmail.com<br><br>⚡ Fun fact I like Legos and Cars
