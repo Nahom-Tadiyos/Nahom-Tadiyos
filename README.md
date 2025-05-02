@@ -16,6 +16,8 @@
 
 # 📊Stats
 ![Nahom-Tadiyos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahom-Tadiyos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nahom-Tadiyos)](https://git.io/streak-stats)
 
 ---
